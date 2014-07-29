@@ -1,0 +1,44 @@
+** Micro-services
+
+The use of finer-grained distribution (micro-services) confers, as a by-product, an increase modularity.
+It may be the increase of modularity that provides the greatest contribution to overall system health improvement, despite the extra complexity in moving to finer-grained services.
+
+Many struggle with the simpler task of achieving greater modularity
+without the restrictive structure of distribution, primarily because
+their programming languages are too primitive to provide levels of
+isolation that are conveyed automatically by the network.
+
+In the same vein, another proferred advantage of microservices is that
+version walls are easier to construct - it's hard to host different
+versions of the same library in one process (OSGi) or one host (Nixos),
+yet achieved by microservices because every service is on a separate
+host.
+
+** Conway's Law and the social aspects of software architecture
+
+Must cover the 'illusion' of the workings of Conway's Law - how Conway's Law operates and why.
+
+Writing software with multiple people is a suboptimal endeavour in the first place
+
+How does Conway's Law actually work?
+
+What is software architecture?
+
+** Organisation of software into modules
+
+Modularity in OO languages (my experience working on Ephiphany/Ascension at LaTasca).
+Structure 101.
+Cycle management products.
+
+
+** Versioning
+
+The time dimension of software architecture.
+
+Binary compatibility (the myth of).
+
+Nixos
+
+Maven
+
+OSGi
