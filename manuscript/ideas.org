@@ -6,7 +6,9 @@ It may be the increase of modularity that provides the greatest contribution to 
 Many struggle with the simpler task of achieving greater modularity
 without the restrictive structure of distribution, primarily because
 their programming languages are too primitive to provide levels of
-isolation that are conveyed automatically by the network.
+isolation that are conveyed automatically by the network. In particular,
+the network provides a physical barrier to the side-effects common to
+most languages.
 
 In the same vein, another proferred advantage of microservices is that
 version walls are easier to construct - it's hard to host different
@@ -26,7 +28,7 @@ What is software architecture?
 
 ** Organisation of software into modules
 
-Modularity in OO languages (my experience working on Ephiphany/Ascension at LaTasca).
+Modularity in OO languages (my experience working on Ephiphany/Ascension at LaCayla).
 Structure 101.
 Cycle management products.
 
