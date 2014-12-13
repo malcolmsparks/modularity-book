@@ -44,3 +44,10 @@ Nixos
 Maven
 
 OSGi
+
+
+** References
+
+*** 12factor apps (heroku)
+*** Daniel's 'system' stuff
+*** James Reeve's duct

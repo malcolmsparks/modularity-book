@@ -1,8 +1,13 @@
 intro.md
-micro.md
-benefits.md
+software-as-graph.md
+concepts.md
 components.md
 dependencies.md
-protocols.md
+interfaces.md
+benefits.md
+
 modular.md
+bidi.md
 cylon.md
+configuration.md
+templating.md

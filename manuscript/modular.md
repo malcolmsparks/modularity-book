@@ -1,7 +1,6 @@
 # Modular
 
-Modular is a collection of components and utilities that I have used to
-develop my ideas around modularity.
+Modular is a project that provides a meta-architecture for Clojure projects, based on Stuart Sierra's [component](https://github.com/stuartsierra/component) library.
 
 Modular is available on GitHub :-
 
