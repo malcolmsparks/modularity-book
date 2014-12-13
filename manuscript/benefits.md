@@ -64,6 +64,8 @@ resolved in a similar manner.
 ### Architectural visibility
 
 _see 2 articles (in evernote) about this_
+http://www.codingthearchitecture.com/2014/06/01/an_architecturally_evident_coding_style.html
+
 
 ## Reduction of dependency cycles
 
@@ -82,4 +84,4 @@ _the temporal aspect_
 ## Reuse
 
 _ensure this is in the introduction_
-_sync this we modular's README.md_
+_sync this with modular's README.md_

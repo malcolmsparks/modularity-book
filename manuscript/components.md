@@ -10,7 +10,7 @@ One of the more enduring principles, one that is continually
 rediscovered in various guises, is the Single Responsibility Principle
 (SRP):-
 
-_SRP definition_
+http://en.wikipedia.org/wiki/Single_responsibility_principle
 
 By reducing the influence a piece of code has on other parts of
 the program, it is easier to avoid the mistakes which lead to problems
@@ -57,3 +57,15 @@ _But we don't want to have to the upper tier of functions have intimate details 
 _define inputs and outputs_
 
 _formalise state-management: configuration (initial internal state)_
+
+
+# Cohesion
+
+http://en.wikipedia.org/wiki/Cohesion_(computer_science)
+
+_the problem with lack of cohesion between SQL queries and DDL_
+
+
+_components are the units of cohesion_
+
+_if some detail in a component has to change, it shouldn't break anything in other components_
