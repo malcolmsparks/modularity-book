@@ -21,8 +21,7 @@ concerned with the avoidance of _side-effects_.
 
 Side-effects, in computer systems, are unexpected behaviours that are
 caused by the breakdown of the abstraction we are using to instruct the
-computer. They are 'holes' in logical façade we erect to avoid dealing
-with the low-level implementation details of a computer.
+computer. They punch 'holes' through logical façades we erect to protect us from considering the low-level implementation details of a computer.
 
 Side-effects imply the existence of 'hidden' edges in our graph, ones
 that have no respect for the boundaries we draw between our clusters and
